@@ -82,13 +82,15 @@ async function showNewQuote() {
   let quote = null;
   let source = "offline";
 
-  // Try the live API first, but never let it block the UI for long.
+  // The Quotable API's domain no longer resolves (confirmed dead, not just
+  // flaky), so we skip straight to the local classified dataset. The
+  // live-API path is left in place below (fetchFromLiveApi/withTimeout)
+  // in case a working quote API is swapped in later — see README.
   try {
-    quote = await withTimeout(fetchFromLiveApi(category), API_TIMEOUT_MS);
-    source = "live";
-  } catch (err) {
     quote = pickFromLocalDataset(category);
     source = "offline";
+  } catch (err) {
+    console.error("Local dataset failed to provide a quote:", err);
   }
 
   toggleSkeleton(false);
@@ -133,7 +135,14 @@ function renderQuote(quote, source) {
 
   document.getElementById("quoteText").textContent = quote.content;
   document.getElementById("quoteAuthor").textContent = `— ${quote.author}`;
-  document.getElementById("offlineNotice").hidden = source !== "offline";
+
+  const metaEl = document.getElementById("quoteMeta");
+  if (quote.category) {
+    const labelType = quote.source === "hand-labeled" ? "hand-labeled" : "model-classified";
+    metaEl.textContent = `category: ${quote.category} · ${labelType}`;
+  } else {
+    metaEl.textContent = "";
+  }
 
   const favBtn = document.getElementById("favBtn");
   const isFav = isFavorited(quote);

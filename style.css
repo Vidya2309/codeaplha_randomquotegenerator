@@ -162,14 +162,11 @@ select:focus, input[type="text"]:focus {
   margin: 0;
 }
 
-.offline-notice {
-  margin-top: 12px;
-  font-size: 0.8rem;
-  color: #f0b95c;
-  background: rgba(240, 185, 92, 0.1);
-  border: 1px solid rgba(240, 185, 92, 0.3);
-  padding: 8px 12px;
-  border-radius: 8px;
+.quote-meta {
+  margin: 10px 0 0;
+  font-size: 0.78rem;
+  color: var(--text-muted);
+  text-transform: capitalize;
 }
 
 .card-actions {
