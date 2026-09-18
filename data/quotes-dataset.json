@@ -1,0 +1,2179 @@
+{
+  "vocab": [
+    "100",
+    "abilities",
+    "achieving",
+    "acknowledged",
+    "act",
+    "actions",
+    "age",
+    "ahead",
+    "alike",
+    "amplify",
+    "angry",
+    "animal",
+    "answer",
+    "bear",
+    "beat",
+    "beauty",
+    "begins",
+    "believe",
+    "belongs",
+    "bent",
+    "best",
+    "better",
+    "big",
+    "bitter",
+    "blind",
+    "boats",
+    "borne",
+    "braver",
+    "broken",
+    "busy",
+    "came",
+    "ceaselessly",
+    "change",
+    "changed",
+    "choices",
+    "clock",
+    "comes",
+    "comfort",
+    "compared",
+    "concentrate",
+    "condemned",
+    "continue",
+    "count",
+    "counts",
+    "courage",
+    "craves",
+    "create",
+    "current",
+    "dark",
+    "darkest",
+    "days",
+    "defeated",
+    "defeats",
+    "depends",
+    "destiny",
+    "difference",
+    "difficulties",
+    "diverged",
+    "does",
+    "don",
+    "dream",
+    "dreams",
+    "dusk",
+    "dwell",
+    "dying",
+    "enjoy",
+    "enlightened",
+    "essence",
+    "everybody",
+    "existence",
+    "experience",
+    "extraordinary",
+    "eye",
+    "face",
+    "faced",
+    "failure",
+    "fall",
+    "falling",
+    "families",
+    "family",
+    "far",
+    "fatal",
+    "fear",
+    "feared",
+    "fighting",
+    "final",
+    "fits",
+    "focus",
+    "folks",
+    "fool",
+    "foolish",
+    "fortune",
+    "fought",
+    "foundation",
+    "free",
+    "friends",
+    "fruit",
+    "future",
+    "game",
+    "getting",
+    "goals",
+    "goes",
+    "going",
+    "good",
+    "great",
+    "greater",
+    "greatest",
+    "grow",
+    "halfway",
+    "happen",
+    "happiness",
+    "happy",
+    "hard",
+    "hardships",
+    "harmony",
+    "heart",
+    "heights",
+    "humble",
+    "ideal",
+    "imagination",
+    "importance",
+    "important",
+    "impossible",
+    "intended",
+    "ishmael",
+    "journey",
+    "key",
+    "know",
+    "knowing",
+    "knowledge",
+    "knows",
+    "learn",
+    "learned",
+    "let",
+    "lies",
+    "life",
+    "light",
+    "little",
+    "live",
+    "lives",
+    "living",
+    "lock",
+    "long",
+    "look",
+    "lost",
+    "love",
+    "make",
+    "makes",
+    "man",
+    "matter",
+    "matters",
+    "mean",
+    "men",
+    "merely",
+    "miles",
+    "mind",
+    "minds",
+    "minerva",
+    "minute",
+    "miracles",
+    "miss",
+    "moment",
+    "moments",
+    "money",
+    "nature",
+    "necessarily",
+    "needed",
+    "noble",
+    "oak",
+    "opportunities",
+    "opportunity",
+    "ordinary",
+    "owl",
+    "oyster",
+    "pass",
+    "past",
+    "patience",
+    "peace",
+    "people",
+    "perceived",
+    "permanent",
+    "players",
+    "playing",
+    "political",
+    "poor",
+    "possession",
+    "precedes",
+    "predict",
+    "prepare",
+    "present",
+    "puppy",
+    "pure",
+    "purpose",
+    "push",
+    "quality",
+    "question",
+    "rain",
+    "rainbows",
+    "rains",
+    "rarely",
+    "ready",
+    "reality",
+    "reason",
+    "rebuilt",
+    "remain",
+    "remember",
+    "require",
+    "rightly",
+    "river",
+    "roads",
+    "rock",
+    "runs",
+    "say",
+    "seconds",
+    "secret",
+    "shadows",
+    "shall",
+    "shots",
+    "simple",
+    "single",
+    "slowly",
+    "smarter",
+    "smile",
+    "smiles",
+    "solid",
+    "souls",
+    "source",
+    "spreads",
+    "stage",
+    "stars",
+    "started",
+    "step",
+    "stop",
+    "storm",
+    "striking",
+    "stronger",
+    "struggle",
+    "success",
+    "suffer",
+    "sum",
+    "sunshine",
+    "survived",
+    "sweet",
+    "tears",
+    "tell",
+    "thing",
+    "things",
+    "think",
+    "thoughts",
+    "thousand",
+    "thyself",
+    "times",
+    "tiny",
+    "took",
+    "tough",
+    "traveled",
+    "true",
+    "truly",
+    "truth",
+    "turn",
+    "twice",
+    "understood",
+    "unexamined",
+    "unhappy",
+    "universally",
+    "universe",
+    "usually",
+    "ve",
+    "wait",
+    "wander",
+    "want",
+    "warm",
+    "watch",
+    "way",
+    "wife",
+    "willow",
+    "wind",
+    "wings",
+    "wisdom",
+    "wise",
+    "wish",
+    "women",
+    "wood",
+    "words",
+    "work",
+    "world",
+    "worst",
+    "worth",
+    "wounds",
+    "years",
+    "zones"
+  ],
+  "idf": [
+    4.912023005428146,
+    4.912023005428146,
+    4.912023005428146,
+    4.912023005428146,
+    4.912023005428146,
+    4.912023005428146,
+    4.912023005428146,
+    4.912023005428146,
+    4.912023005428146,
+    4.912023005428146,
+    4.912023005428146,
+    4.912023005428146,
+    4.912023005428146,
+    4.912023005428146,
+    4.912023005428146,
+    4.912023005428146,
+    4.912023005428146,
+    4.218875824868201,
+    4.912023005428146,
+    4.912023005428146,
+    4.506557897319982,
+    4.912023005428146,
+    4.912023005428146,
+    4.506557897319982,
+    4.912023005428146,
+    4.912023005428146,
+    4.912023005428146,
+    4.912023005428146,
+    4.912023005428146,
+    4.912023005428146,
+    4.912023005428146,
+    4.912023005428146,
+    4.218875824868201,
+    4.912023005428146,
+    4.912023005428146,
+    4.912023005428146,
+    4.912023005428146,
+    4.912023005428146,
+    4.912023005428146,
+    4.912023005428146,
+    4.912023005428146,
+    4.912023005428146,
+    4.912023005428146,
+    4.912023005428146,
+    4.912023005428146,
+    4.912023005428146,
+    4.218875824868201,
+    4.912023005428146,
+    4.912023005428146,
+    4.912023005428146,
+    4.912023005428146,
+    4.912023005428146,
+    4.912023005428146,
+    4.506557897319982,
+    4.912023005428146,
+    4.912023005428146,
+    4.506557897319982,
+    4.912023005428146,
+    3.995732273553991,
+    3.659260036932778,
+    4.506557897319982,
+    4.912023005428146,
+    4.912023005428146,
+    4.912023005428146,
+    4.912023005428146,
+    4.912023005428146,
+    4.912023005428146,
+    4.912023005428146,
+    4.912023005428146,
+    4.912023005428146,
+    4.912023005428146,
+    4.912023005428146,
+    4.912023005428146,
+    4.506557897319982,
+    4.912023005428146,
+    4.912023005428146,
+    4.912023005428146,
+    4.912023005428146,
+    4.912023005428146,
+    4.912023005428146,
+    4.912023005428146,
+    4.912023005428146,
+    4.912023005428146,
+    4.912023005428146,
+    4.912023005428146,
+    4.912023005428146,
+    4.912023005428146,
+    4.912023005428146,
+    4.912023005428146,
+    4.912023005428146,
+    4.912023005428146,
+    4.912023005428146,
+    4.912023005428146,
+    4.912023005428146,
+    4.912023005428146,
+    4.912023005428146,
+    4.912023005428146,
+    4.218875824868201,
+    4.912023005428146,
+    4.912023005428146,
+    4.912023005428146,
+    4.912023005428146,
+    4.218875824868201,
+    4.506557897319982,
+    4.506557897319982,
+    4.912023005428146,
+    4.912023005428146,
+    4.912023005428146,
+    4.912023005428146,
+    4.912023005428146,
+    3.5257286443082556,
+    3.5257286443082556,
+    4.912023005428146,
+    4.912023005428146,
+    4.912023005428146,
+    4.506557897319982,
+    4.912023005428146,
+    4.912023005428146,
+    4.912023005428146,
+    4.506557897319982,
+    4.912023005428146,
+    4.506557897319982,
+    4.506557897319982,
+    4.912023005428146,
+    4.912023005428146,
+    4.912023005428146,
+    4.912023005428146,
+    3.995732273553991,
+    4.218875824868201,
+    4.912023005428146,
+    4.912023005428146,
+    4.912023005428146,
+    4.912023005428146,
+    4.506557897319982,
+    4.912023005428146,
+    3.120263536200091,
+    4.912023005428146,
+    4.218875824868201,
+    4.912023005428146,
+    4.912023005428146,
+    4.506557897319982,
+    4.912023005428146,
+    4.912023005428146,
+    4.912023005428146,
+    4.912023005428146,
+    4.912023005428146,
+    3.659260036932778,
+    4.912023005428146,
+    3.5257286443082556,
+    4.912023005428146,
+    4.506557897319982,
+    4.912023005428146,
+    4.912023005428146,
+    4.506557897319982,
+    4.912023005428146,
+    4.218875824868201,
+    4.912023005428146,
+    4.912023005428146,
+    4.912023005428146,
+    4.912023005428146,
+    4.912023005428146,
+    4.912023005428146,
+    4.912023005428146,
+    4.912023005428146,
+    4.912023005428146,
+    4.912023005428146,
+    4.912023005428146,
+    4.912023005428146,
+    4.912023005428146,
+    4.912023005428146,
+    4.912023005428146,
+    4.912023005428146,
+    4.912023005428146,
+    4.912023005428146,
+    4.912023005428146,
+    4.506557897319982,
+    4.912023005428146,
+    4.912023005428146,
+    4.218875824868201,
+    4.912023005428146,
+    4.912023005428146,
+    4.912023005428146,
+    4.912023005428146,
+    4.912023005428146,
+    4.912023005428146,
+    4.912023005428146,
+    4.912023005428146,
+    4.912023005428146,
+    4.912023005428146,
+    4.912023005428146,
+    4.912023005428146,
+    4.912023005428146,
+    4.912023005428146,
+    4.912023005428146,
+    4.912023005428146,
+    4.912023005428146,
+    4.912023005428146,
+    4.912023005428146,
+    4.912023005428146,
+    4.912023005428146,
+    4.912023005428146,
+    4.912023005428146,
+    4.912023005428146,
+    4.912023005428146,
+    4.912023005428146,
+    4.912023005428146,
+    4.912023005428146,
+    4.912023005428146,
+    4.912023005428146,
+    4.912023005428146,
+    4.912023005428146,
+    4.912023005428146,
+    4.912023005428146,
+    4.912023005428146,
+    4.912023005428146,
+    4.912023005428146,
+    4.912023005428146,
+    4.912023005428146,
+    4.912023005428146,
+    4.506557897319982,
+    4.912023005428146,
+    4.912023005428146,
+    4.912023005428146,
+    4.912023005428146,
+    4.912023005428146,
+    4.912023005428146,
+    4.912023005428146,
+    4.912023005428146,
+    4.912023005428146,
+    4.912023005428146,
+    4.912023005428146,
+    4.506557897319982,
+    4.912023005428146,
+    4.912023005428146,
+    4.912023005428146,
+    4.912023005428146,
+    4.912023005428146,
+    4.506557897319982,
+    4.912023005428146,
+    4.912023005428146,
+    4.912023005428146,
+    4.912023005428146,
+    4.912023005428146,
+    4.912023005428146,
+    4.912023005428146,
+    4.912023005428146,
+    4.506557897319982,
+    3.8134107167600364,
+    4.912023005428146,
+    4.912023005428146,
+    4.912023005428146,
+    4.506557897319982,
+    4.912023005428146,
+    4.912023005428146,
+    4.912023005428146,
+    4.912023005428146,
+    4.506557897319982,
+    4.912023005428146,
+    4.218875824868201,
+    4.912023005428146,
+    4.912023005428146,
+    4.912023005428146,
+    4.912023005428146,
+    4.912023005428146,
+    4.912023005428146,
+    4.912023005428146,
+    4.912023005428146,
+    4.912023005428146,
+    4.912023005428146,
+    4.912023005428146,
+    4.506557897319982,
+    4.912023005428146,
+    4.912023005428146,
+    4.218875824868201,
+    4.912023005428146,
+    4.912023005428146,
+    4.912023005428146,
+    4.912023005428146,
+    4.218875824868201,
+    4.506557897319982,
+    4.506557897319982,
+    4.912023005428146,
+    4.912023005428146,
+    4.912023005428146,
+    4.912023005428146,
+    3.995732273553991,
+    4.912023005428146,
+    4.506557897319982,
+    4.912023005428146,
+    4.912023005428146,
+    4.912023005428146
+  ],
+  "quotes": [
+    {
+      "content": "The only way to do great work is to love what you do.",
+      "author": "Steve Jobs",
+      "category": "motivation",
+      "confidence": 1.0,
+      "source": "hand-labeled",
+      "vector": {
+        "104": 0.4849,
+        "145": 0.5286,
+        "273": 0.454,
+        "284": 0.5286
+      }
+    },
+    {
+      "content": "Believe you can and you're halfway there.",
+      "author": "Theodore Roosevelt",
+      "category": "motivation",
+      "confidence": 1.0,
+      "source": "hand-labeled",
+      "vector": {
+        "17": 0.6516,
+        "108": 0.7586
+      }
+    },
+    {
+      "content": "It always seems impossible until it's done.",
+      "author": "Nelson Mandela",
+      "category": "motivation",
+      "confidence": 1.0,
+      "source": "hand-labeled",
+      "vector": {
+        "122": 1.0
+      }
+    },
+    {
+      "content": "Do what you can, with what you have, where you are.",
+      "author": "Theodore Roosevelt",
+      "category": "motivation",
+      "confidence": 1.0,
+      "source": "hand-labeled",
+      "vector": {}
+    },
+    {
+      "content": "The future belongs to those who believe in the beauty of their dreams.",
+      "author": "Eleanor Roosevelt",
+      "category": "motivation",
+      "confidence": 1.0,
+      "source": "hand-labeled",
+      "vector": {
+        "15": 0.4727,
+        "17": 0.406,
+        "18": 0.4727,
+        "61": 0.4727,
+        "97": 0.406
+      }
+    },
+    {
+      "content": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
+      "author": "Winston Churchill",
+      "category": "motivation",
+      "confidence": 1.0,
+      "source": "hand-labeled",
+      "vector": {
+        "41": 0.3823,
+        "43": 0.3823,
+        "44": 0.3823,
+        "75": 0.3823,
+        "81": 0.3823,
+        "85": 0.3823,
+        "237": 0.3508
+      }
+    },
+    {
+      "content": "You miss 100% of the shots you don't take.",
+      "author": "Wayne Gretzky",
+      "category": "motivation",
+      "confidence": 1.0,
+      "source": "hand-labeled",
+      "vector": {
+        "0": 0.5304,
+        "59": 0.3951,
+        "160": 0.5304,
+        "217": 0.5304
+      }
+    },
+    {
+      "content": "Act as if what you do makes a difference. It does.",
+      "author": "William James",
+      "category": "motivation",
+      "confidence": 1.0,
+      "source": "hand-labeled",
+      "vector": {
+        "4": 0.5226,
+        "55": 0.5226,
+        "58": 0.4251,
+        "147": 0.5226
+      }
+    },
+    {
+      "content": "The secret of getting ahead is getting started.",
+      "author": "Mark Twain",
+      "category": "motivation",
+      "confidence": 1.0,
+      "source": "hand-labeled",
+      "vector": {
+        "7": 0.4129,
+        "99": 0.699,
+        "214": 0.4129,
+        "230": 0.4129
+      }
+    },
+    {
+      "content": "Hardships often prepare ordinary people for an extraordinary destiny.",
+      "author": "C.S. Lewis",
+      "category": "motivation",
+      "confidence": 1.0,
+      "source": "hand-labeled",
+      "vector": {
+        "54": 0.4175,
+        "71": 0.4175,
+        "113": 0.4175,
+        "171": 0.4175,
+        "178": 0.3586,
+        "188": 0.4175
+      }
+    },
+    {
+      "content": "What you get by achieving your goals is not as important as what you become by achieving your goals.",
+      "author": "Zig Ziglar",
+      "category": "motivation",
+      "confidence": 1.0,
+      "source": "hand-labeled",
+      "vector": {
+        "2": 0.6603,
+        "100": 0.6603,
+        "121": 0.3578
+      }
+    },
+    {
+      "content": "Opportunities don't happen, you create them.",
+      "author": "Chris Grosser",
+      "category": "motivation",
+      "confidence": 1.0,
+      "source": "hand-labeled",
+      "vector": {
+        "46": 0.4733,
+        "59": 0.4105,
+        "109": 0.5511,
+        "169": 0.5511
+      }
+    },
+    {
+      "content": "The best way to predict the future is to create it.",
+      "author": "Peter Drucker",
+      "category": "motivation",
+      "confidence": 1.0,
+      "source": "hand-labeled",
+      "vector": {
+        "20": 0.4556,
+        "46": 0.4265,
+        "97": 0.4265,
+        "187": 0.4966,
+        "273": 0.4265
+      }
+    },
+    {
+      "content": "Don't watch the clock; do what it does. Keep going.",
+      "author": "Sam Levenson",
+      "category": "motivation",
+      "confidence": 1.0,
+      "source": "hand-labeled",
+      "vector": {
+        "35": 0.5029,
+        "58": 0.4091,
+        "59": 0.3746,
+        "102": 0.4319,
+        "272": 0.5029
+      }
+    },
+    {
+      "content": "Great things never came from comfort zones.",
+      "author": "Unknown",
+      "category": "motivation",
+      "confidence": 1.0,
+      "source": "hand-labeled",
+      "vector": {
+        "30": 0.4621,
+        "37": 0.4621,
+        "104": 0.4239,
+        "246": 0.4239,
+        "290": 0.4621
+      }
+    },
+    {
+      "content": "Push yourself, because no one else is going to do it for you.",
+      "author": "Unknown",
+      "category": "motivation",
+      "confidence": 1.0,
+      "source": "hand-labeled",
+      "vector": {
+        "102": 0.6516,
+        "193": 0.7586
+      }
+    },
+    {
+      "content": "Dream it. Wish it. Do it.",
+      "author": "Unknown",
+      "category": "motivation",
+      "confidence": 1.0,
+      "source": "hand-labeled",
+      "vector": {
+        "60": 0.7071,
+        "280": 0.7071
+      }
+    },
+    {
+      "content": "Little things make big days.",
+      "author": "Unknown",
+      "category": "motivation",
+      "confidence": 1.0,
+      "source": "hand-labeled",
+      "vector": {
+        "22": 0.4918,
+        "50": 0.4918,
+        "137": 0.4224,
+        "146": 0.3664,
+        "246": 0.4512
+      }
+    },
+    {
+      "content": "It's going to be hard, but hard does not mean impossible.",
+      "author": "Unknown",
+      "category": "motivation",
+      "confidence": 1.0,
+      "source": "hand-labeled",
+      "vector": {
+        "58": 0.3291,
+        "102": 0.3475,
+        "112": 0.6851,
+        "122": 0.3712,
+        "151": 0.4046
+      }
+    },
+    {
+      "content": "Don't wait for opportunity. Create it.",
+      "author": "Unknown",
+      "category": "motivation",
+      "confidence": 1.0,
+      "source": "hand-labeled",
+      "vector": {
+        "46": 0.4733,
+        "59": 0.4105,
+        "170": 0.5511,
+        "268": 0.5511
+      }
+    },
+    {
+      "content": "The unexamined life is not worth living.",
+      "author": "Socrates",
+      "category": "wisdom",
+      "confidence": 1.0,
+      "source": "hand-labeled",
+      "vector": {
+        "135": 0.3615,
+        "140": 0.5222,
+        "262": 0.5692,
+        "287": 0.5222
+      }
+    },
+    {
+      "content": "I think, therefore I am.",
+      "author": "Rene Descartes",
+      "category": "wisdom",
+      "confidence": 1.0,
+      "source": "hand-labeled",
+      "vector": {
+        "247": 1.0
+      }
+    },
+    {
+      "content": "Man is condemned to be free.",
+      "author": "Jean-Paul Sartre",
+      "category": "wisdom",
+      "confidence": 1.0,
+      "source": "hand-labeled",
+      "vector": {
+        "40": 0.6305,
+        "94": 0.6305,
+        "148": 0.4526
+      }
+    },
+    {
+      "content": "He who has a why to live can bear almost any how.",
+      "author": "Friedrich Nietzsche",
+      "category": "wisdom",
+      "confidence": 1.0,
+      "source": "hand-labeled",
+      "vector": {
+        "13": 0.7071,
+        "138": 0.7071
+      }
+    },
+    {
+      "content": "The only true wisdom is in knowing you know nothing.",
+      "author": "Socrates",
+      "category": "wisdom",
+      "confidence": 1.0,
+      "source": "hand-labeled",
+      "vector": {
+        "127": 0.4713,
+        "128": 0.4976,
+        "256": 0.5316,
+        "278": 0.4976
+      }
+    },
+    {
+      "content": "Happiness is not an ideal of reason but of imagination.",
+      "author": "Immanuel Kant",
+      "category": "wisdom",
+      "confidence": 1.0,
+      "source": "hand-labeled",
+      "vector": {
+        "110": 0.3918,
+        "118": 0.5458,
+        "119": 0.5007,
+        "202": 0.5458
+      }
+    },
+    {
+      "content": "We suffer more often in imagination than in reality.",
+      "author": "Seneca",
+      "category": "wisdom",
+      "confidence": 1.0,
+      "source": "hand-labeled",
+      "vector": {
+        "119": 0.5442,
+        "201": 0.5932,
+        "238": 0.5932
+      }
+    },
+    {
+      "content": "The life of man is of no greater importance to the universe than that of an oyster.",
+      "author": "David Hume",
+      "category": "wisdom",
+      "confidence": 1.0,
+      "source": "hand-labeled",
+      "vector": {
+        "105": 0.4509,
+        "120": 0.4509,
+        "135": 0.2864,
+        "148": 0.3236,
+        "173": 0.4509,
+        "265": 0.4509
+      }
+    },
+    {
+      "content": "Whatever is rightly done, however humble, is noble.",
+      "author": "Sir Henry Royce",
+      "category": "wisdom",
+      "confidence": 1.0,
+      "source": "hand-labeled",
+      "vector": {
+        "117": 0.5774,
+        "167": 0.5774,
+        "207": 0.5774
+      }
+    },
+    {
+      "content": "The mind is everything. What you think you become.",
+      "author": "Buddha",
+      "category": "wisdom",
+      "confidence": 1.0,
+      "source": "hand-labeled",
+      "vector": {
+        "155": 0.7419,
+        "247": 0.6706
+      }
+    },
+    {
+      "content": "There is nothing permanent except change.",
+      "author": "Heraclitus",
+      "category": "wisdom",
+      "confidence": 1.0,
+      "source": "hand-labeled",
+      "vector": {
+        "32": 0.6516,
+        "180": 0.7586
+      }
+    },
+    {
+      "content": "Know thyself.",
+      "author": "Socrates",
+      "category": "wisdom",
+      "confidence": 1.0,
+      "source": "hand-labeled",
+      "vector": {
+        "127": 0.631,
+        "250": 0.7757
+      }
+    },
+    {
+      "content": "Man is by nature a political animal.",
+      "author": "Aristotle",
+      "category": "wisdom",
+      "confidence": 1.0,
+      "source": "hand-labeled",
+      "vector": {
+        "11": 0.5334,
+        "148": 0.3828,
+        "164": 0.5334,
+        "183": 0.5334
+      }
+    },
+    {
+      "content": "The owl of Minerva spreads its wings only with the falling of the dusk.",
+      "author": "G.W.F. Hegel",
+      "category": "wisdom",
+      "confidence": 1.0,
+      "source": "hand-labeled",
+      "vector": {
+        "62": 0.4082,
+        "77": 0.4082,
+        "157": 0.4082,
+        "172": 0.4082,
+        "227": 0.4082,
+        "277": 0.4082
+      }
+    },
+    {
+      "content": "To be is to be perceived.",
+      "author": "George Berkeley",
+      "category": "wisdom",
+      "confidence": 1.0,
+      "source": "hand-labeled",
+      "vector": {
+        "179": 1.0
+      }
+    },
+    {
+      "content": "Existence precedes essence.",
+      "author": "Jean-Paul Sartre",
+      "category": "wisdom",
+      "confidence": 1.0,
+      "source": "hand-labeled",
+      "vector": {
+        "67": 0.5774,
+        "69": 0.5774,
+        "186": 0.5774
+      }
+    },
+    {
+      "content": "Nothing in life is to be feared, it is only to be understood.",
+      "author": "Marie Curie",
+      "category": "wisdom",
+      "confidence": 1.0,
+      "source": "hand-labeled",
+      "vector": {
+        "83": 0.645,
+        "135": 0.4097,
+        "261": 0.645
+      }
+    },
+    {
+      "content": "The struggle itself toward the heights is enough to fill a man's heart.",
+      "author": "Albert Camus",
+      "category": "wisdom",
+      "confidence": 1.0,
+      "source": "hand-labeled",
+      "vector": {
+        "115": 0.5007,
+        "116": 0.5458,
+        "148": 0.3918,
+        "236": 0.5458
+      }
+    },
+    {
+      "content": "One cannot step twice in the same river.",
+      "author": "Heraclitus",
+      "category": "wisdom",
+      "confidence": 1.0,
+      "source": "hand-labeled",
+      "vector": {
+        "208": 0.5932,
+        "231": 0.5442,
+        "260": 0.5932
+      }
+    },
+    {
+      "content": "It is not the man who has too little, but the man who craves more, that is poor.",
+      "author": "Seneca",
+      "category": "wisdom",
+      "confidence": 1.0,
+      "source": "hand-labeled",
+      "vector": {
+        "45": 0.4871,
+        "137": 0.4184,
+        "148": 0.592,
+        "184": 0.4871
+      }
+    },
+    {
+      "content": "It was the best of times, it was the worst of times.",
+      "author": "Charles Dickens",
+      "category": "literature",
+      "confidence": 1.0,
+      "source": "hand-labeled",
+      "vector": {
+        "20": 0.4448,
+        "251": 0.7531,
+        "286": 0.4848
+      }
+    },
+    {
+      "content": "All happy families are alike; each unhappy family is unhappy in its own way.",
+      "author": "Leo Tolstoy",
+      "category": "literature",
+      "confidence": 1.0,
+      "source": "hand-labeled",
+      "vector": {
+        "8": 0.3748,
+        "78": 0.3748,
+        "79": 0.3748,
+        "111": 0.269,
+        "263": 0.6345,
+        "273": 0.3219
+      }
+    },
+    {
+      "content": "Call me Ishmael.",
+      "author": "Herman Melville",
+      "category": "literature",
+      "confidence": 1.0,
+      "source": "hand-labeled",
+      "vector": {
+        "124": 1.0
+      }
+    },
+    {
+      "content": "It is a truth universally acknowledged, that a single man in possession of a good fortune must be in want of a wife.",
+      "author": "Jane Austen",
+      "category": "literature",
+      "confidence": 1.0,
+      "source": "hand-labeled",
+      "vector": {
+        "3": 0.3375,
+        "91": 0.3375,
+        "103": 0.3097,
+        "148": 0.2423,
+        "185": 0.3375,
+        "219": 0.3097,
+        "258": 0.2899,
+        "264": 0.3375,
+        "270": 0.3097,
+        "274": 0.3375
+      }
+    },
+    {
+      "content": "So we beat on, boats against the current, borne back ceaselessly into the past.",
+      "author": "F. Scott Fitzgerald",
+      "category": "literature",
+      "confidence": 1.0,
+      "source": "hand-labeled",
+      "vector": {
+        "14": 0.4137,
+        "25": 0.4137,
+        "26": 0.4137,
+        "31": 0.4137,
+        "47": 0.4137,
+        "175": 0.3796
+      }
+    },
+    {
+      "content": "Whatever our souls are made of, his and mine are the same.",
+      "author": "Emily Bronte",
+      "category": "literature",
+      "confidence": 1.0,
+      "source": "hand-labeled",
+      "vector": {
+        "225": 1.0
+      }
+    },
+    {
+      "content": "All the world's a stage, and all the men and women merely players.",
+      "author": "William Shakespeare",
+      "category": "literature",
+      "confidence": 1.0,
+      "source": "hand-labeled",
+      "vector": {
+        "152": 0.4263,
+        "153": 0.3911,
+        "181": 0.4263,
+        "228": 0.4263,
+        "281": 0.4263,
+        "285": 0.3468
+      }
+    },
+    {
+      "content": "We know what we are, but know not what we may be.",
+      "author": "William Shakespeare",
+      "category": "literature",
+      "confidence": 1.0,
+      "source": "hand-labeled",
+      "vector": {
+        "127": 1.0
+      }
+    },
+    {
+      "content": "Not all those who wander are lost.",
+      "author": "J.R.R. Tolkien",
+      "category": "literature",
+      "confidence": 1.0,
+      "source": "hand-labeled",
+      "vector": {
+        "144": 0.7071,
+        "269": 0.7071
+      }
+    },
+    {
+      "content": "It is our choices that show what we truly are, far more than our abilities.",
+      "author": "J.K. Rowling",
+      "category": "literature",
+      "confidence": 1.0,
+      "source": "hand-labeled",
+      "vector": {
+        "1": 0.5,
+        "34": 0.5,
+        "80": 0.5,
+        "257": 0.5
+      }
+    },
+    {
+      "content": "In three words I can sum up everything I've learned about life: it goes on.",
+      "author": "Robert Frost",
+      "category": "literature",
+      "confidence": 1.0,
+      "source": "hand-labeled",
+      "vector": {
+        "101": 0.4302,
+        "132": 0.4302,
+        "135": 0.2733,
+        "239": 0.4302,
+        "267": 0.4302,
+        "283": 0.4302
+      }
+    },
+    {
+      "content": "Get busy living or get busy dying.",
+      "author": "Stephen King",
+      "category": "literature",
+      "confidence": 1.0,
+      "source": "hand-labeled",
+      "vector": {
+        "29": 0.7803,
+        "64": 0.4609,
+        "140": 0.4228
+      }
+    },
+    {
+      "content": "There is some good in this world, and it's worth fighting for.",
+      "author": "J.R.R. Tolkien",
+      "category": "literature",
+      "confidence": 1.0,
+      "source": "hand-labeled",
+      "vector": {
+        "84": 0.5468,
+        "103": 0.5016,
+        "285": 0.4448,
+        "287": 0.5016
+      }
+    },
+    {
+      "content": "The truth is rarely pure and never simple.",
+      "author": "Oscar Wilde",
+      "category": "literature",
+      "confidence": 1.0,
+      "source": "hand-labeled",
+      "vector": {
+        "191": 0.5172,
+        "199": 0.5172,
+        "218": 0.5172,
+        "258": 0.4443
+      }
+    },
+    {
+      "content": "Two roads diverged in a wood, and I took the one less traveled by.",
+      "author": "Robert Frost",
+      "category": "literature",
+      "confidence": 1.0,
+      "source": "hand-labeled",
+      "vector": {
+        "57": 0.4472,
+        "209": 0.4472,
+        "253": 0.4472,
+        "255": 0.4472,
+        "282": 0.4472
+      }
+    },
+    {
+      "content": "If you tell the truth, you don't have to remember anything.",
+      "author": "Mark Twain",
+      "category": "wisdom",
+      "confidence": 1.0,
+      "source": "hand-labeled",
+      "vector": {
+        "59": 0.4105,
+        "205": 0.5511,
+        "244": 0.5511,
+        "258": 0.4733
+      }
+    },
+    {
+      "content": "Whoever is happy will make others happy too.",
+      "author": "Anne Frank",
+      "category": "wisdom",
+      "confidence": 1.0,
+      "source": "hand-labeled",
+      "vector": {
+        "111": 0.8526,
+        "146": 0.5226
+      }
+    },
+    {
+      "content": "Money and success don't change people; they merely amplify what is already there.",
+      "author": "Will Smith",
+      "category": "wisdom",
+      "confidence": 1.0,
+      "source": "hand-labeled",
+      "vector": {
+        "9": 0.4183,
+        "32": 0.3593,
+        "59": 0.3117,
+        "153": 0.3838,
+        "163": 0.4183,
+        "178": 0.3593,
+        "237": 0.3838
+      }
+    },
+    {
+      "content": "An eye for an eye will only make the whole world blind.",
+      "author": "Mahatma Gandhi",
+      "category": "wisdom",
+      "confidence": 1.0,
+      "source": "hand-labeled",
+      "vector": {
+        "24": 0.4435,
+        "72": 0.751,
+        "146": 0.3304,
+        "285": 0.3608
+      }
+    },
+    {
+      "content": "The only true wisdom is in knowing you know nothing.",
+      "author": "Socrates",
+      "category": "wisdom",
+      "confidence": 1.0,
+      "source": "hand-labeled",
+      "vector": {
+        "127": 0.4713,
+        "128": 0.4976,
+        "256": 0.5316,
+        "278": 0.4976
+      }
+    },
+    {
+      "content": "You must be the change you wish to see in the world.",
+      "author": "Mahatma Gandhi",
+      "category": "wisdom",
+      "confidence": 1.0,
+      "source": "hand-labeled",
+      "vector": {
+        "32": 0.5737,
+        "280": 0.6128,
+        "285": 0.5434
+      }
+    },
+    {
+      "content": "It is during our darkest moments that we must focus to see the light.",
+      "author": "Aristotle",
+      "category": "wisdom",
+      "confidence": 1.0,
+      "source": "hand-labeled",
+      "vector": {
+        "49": 0.5,
+        "87": 0.5,
+        "136": 0.5,
+        "162": 0.5
+      }
+    },
+    {
+      "content": "Turn your wounds into wisdom.",
+      "author": "Oprah Winfrey",
+      "category": "wisdom",
+      "confidence": 1.0,
+      "source": "hand-labeled",
+      "vector": {
+        "259": 0.6044,
+        "278": 0.5191,
+        "288": 0.6044
+      }
+    },
+    {
+      "content": "The only source of knowledge is experience.",
+      "author": "Albert Einstein",
+      "category": "wisdom",
+      "confidence": 1.0,
+      "source": "hand-labeled",
+      "vector": {
+        "70": 0.5774,
+        "129": 0.5774,
+        "226": 0.5774
+      }
+    },
+    {
+      "content": "A wise man can learn more from a foolish question than a fool can learn from a wise answer.",
+      "author": "Bruce Lee",
+      "category": "wisdom",
+      "confidence": 1.0,
+      "source": "hand-labeled",
+      "vector": {
+        "12": 0.3195,
+        "89": 0.3195,
+        "90": 0.3195,
+        "131": 0.541,
+        "148": 0.2293,
+        "195": 0.3195,
+        "279": 0.4963
+      }
+    },
+    {
+      "content": "The journey of a thousand miles begins with a single step.",
+      "author": "Lao Tzu",
+      "category": "wisdom",
+      "confidence": 1.0,
+      "source": "hand-labeled",
+      "vector": {
+        "16": 0.4195,
+        "125": 0.4195,
+        "154": 0.4195,
+        "219": 0.3848,
+        "231": 0.3848,
+        "249": 0.4195
+      }
+    },
+    {
+      "content": "He who knows others is wise; he who knows himself is enlightened.",
+      "author": "Lao Tzu",
+      "category": "wisdom",
+      "confidence": 1.0,
+      "source": "hand-labeled",
+      "vector": {
+        "66": 0.4609,
+        "130": 0.7803,
+        "279": 0.4228
+      }
+    },
+    {
+      "content": "Patience is bitter, but its fruit is sweet.",
+      "author": "Aristotle",
+      "category": "wisdom",
+      "confidence": 1.0,
+      "source": "hand-labeled",
+      "vector": {
+        "23": 0.4681,
+        "96": 0.5102,
+        "176": 0.5102,
+        "242": 0.5102
+      }
+    },
+    {
+      "content": "Do not dwell in the past, do not dream of the future, concentrate the mind on the present moment.",
+      "author": "Buddha",
+      "category": "wisdom",
+      "confidence": 1.0,
+      "source": "hand-labeled",
+      "vector": {
+        "39": 0.3737,
+        "60": 0.3429,
+        "63": 0.3737,
+        "97": 0.321,
+        "155": 0.321,
+        "161": 0.3737,
+        "175": 0.3429,
+        "189": 0.3737
+      }
+    },
+    {
+      "content": "What we think, we become.",
+      "author": "Buddha",
+      "category": "wisdom",
+      "confidence": 1.0,
+      "source": "hand-labeled",
+      "vector": {
+        "247": 1.0
+      }
+    },
+    {
+      "content": "The purpose of our lives is to be happy.",
+      "author": "Dalai Lama",
+      "category": "happiness",
+      "confidence": 1.0,
+      "source": "hand-labeled",
+      "vector": {
+        "111": 0.4526,
+        "139": 0.6305,
+        "192": 0.6305
+      }
+    },
+    {
+      "content": "Happiness is not something ready made. It comes from your own actions.",
+      "author": "Dalai Lama",
+      "category": "happiness",
+      "confidence": 1.0,
+      "source": "hand-labeled",
+      "vector": {
+        "5": 0.5334,
+        "36": 0.5334,
+        "110": 0.3828,
+        "200": 0.5334
+      }
+    },
+    {
+      "content": "For every minute you remain angry, you give up sixty seconds of peace of mind.",
+      "author": "Ralph Waldo Emerson",
+      "category": "happiness",
+      "confidence": 1.0,
+      "source": "hand-labeled",
+      "vector": {
+        "10": 0.4175,
+        "155": 0.3586,
+        "158": 0.4175,
+        "177": 0.4175,
+        "204": 0.4175,
+        "213": 0.4175
+      }
+    },
+    {
+      "content": "Happiness depends upon ourselves.",
+      "author": "Aristotle",
+      "category": "happiness",
+      "confidence": 1.0,
+      "source": "hand-labeled",
+      "vector": {
+        "53": 0.7876,
+        "110": 0.6162
+      }
+    },
+    {
+      "content": "The most important thing is to enjoy your life, to be happy, it's all that matters.",
+      "author": "Audrey Hepburn",
+      "category": "happiness",
+      "confidence": 1.0,
+      "source": "hand-labeled",
+      "vector": {
+        "65": 0.4661,
+        "111": 0.3346,
+        "121": 0.4277,
+        "135": 0.2961,
+        "150": 0.4277,
+        "245": 0.4661
+      }
+    },
+    {
+      "content": "Count your age by friends, not years. Count your life by smiles, not tears.",
+      "author": "John Lennon",
+      "category": "happiness",
+      "confidence": 1.0,
+      "source": "hand-labeled",
+      "vector": {
+        "6": 0.3477,
+        "42": 0.5888,
+        "95": 0.3477,
+        "135": 0.2209,
+        "223": 0.3477,
+        "243": 0.3477,
+        "289": 0.3477
+      }
+    },
+    {
+      "content": "The happiness of your life depends upon the quality of your thoughts.",
+      "author": "Marcus Aurelius",
+      "category": "happiness",
+      "confidence": 1.0,
+      "source": "hand-labeled",
+      "vector": {
+        "53": 0.4731,
+        "110": 0.3701,
+        "135": 0.3276,
+        "194": 0.5157,
+        "248": 0.5157
+      }
+    },
+    {
+      "content": "Folks are usually about as happy as they make their minds up to be.",
+      "author": "Abraham Lincoln",
+      "category": "happiness",
+      "confidence": 1.0,
+      "source": "hand-labeled",
+      "vector": {
+        "88": 0.4957,
+        "111": 0.3558,
+        "146": 0.3693,
+        "156": 0.4957,
+        "266": 0.4957
+      }
+    },
+    {
+      "content": "If you want to be happy, be.",
+      "author": "Leo Tolstoy",
+      "category": "happiness",
+      "confidence": 1.0,
+      "source": "hand-labeled",
+      "vector": {
+        "111": 0.6162,
+        "270": 0.7876
+      }
+    },
+    {
+      "content": "Very little is needed to make a happy life; it is all within yourself.",
+      "author": "Marcus Aurelius",
+      "category": "happiness",
+      "confidence": 1.0,
+      "source": "hand-labeled",
+      "vector": {
+        "111": 0.4005,
+        "135": 0.3545,
+        "137": 0.4793,
+        "146": 0.4157,
+        "166": 0.558
+      }
+    },
+    {
+      "content": "Happiness is when what you think, what you say, and what you do are in harmony.",
+      "author": "Mahatma Gandhi",
+      "category": "happiness",
+      "confidence": 1.0,
+      "source": "hand-labeled",
+      "vector": {
+        "110": 0.4065,
+        "114": 0.5663,
+        "212": 0.5663,
+        "247": 0.4397
+      }
+    },
+    {
+      "content": "The greatest happiness you can have is knowing that you do not necessarily require happiness.",
+      "author": "William Saroyan",
+      "category": "happiness",
+      "confidence": 1.0,
+      "source": "hand-labeled",
+      "vector": {
+        "106": 0.4379,
+        "110": 0.5322,
+        "128": 0.3761,
+        "165": 0.4379,
+        "206": 0.4379
+      }
+    },
+    {
+      "content": "Smile, it is the key that fits the lock of everybody's heart.",
+      "author": "Anthony J. D'Angelo",
+      "category": "happiness",
+      "confidence": 1.0,
+      "source": "hand-labeled",
+      "vector": {
+        "68": 0.4137,
+        "86": 0.4137,
+        "115": 0.3796,
+        "126": 0.4137,
+        "141": 0.4137,
+        "222": 0.4137
+      }
+    },
+    {
+      "content": "Happiness is a warm puppy.",
+      "author": "Charles M. Schulz",
+      "category": "happiness",
+      "confidence": 1.0,
+      "source": "hand-labeled",
+      "vector": {
+        "110": 0.4526,
+        "190": 0.6305,
+        "271": 0.6305
+      }
+    },
+    {
+      "content": "You will face many defeats in life, but never let yourself be defeated.",
+      "author": "Maya Angelou",
+      "category": "stress",
+      "confidence": 1.0,
+      "source": "hand-labeled",
+      "vector": {
+        "51": 0.4947,
+        "52": 0.4947,
+        "73": 0.4538,
+        "133": 0.4538,
+        "135": 0.3142
+      }
+    },
+    {
+      "content": "It does not matter how slowly you go as long as you do not stop.",
+      "author": "Confucius",
+      "category": "stress",
+      "confidence": 1.0,
+      "source": "hand-labeled",
+      "vector": {
+        "58": 0.3768,
+        "142": 0.4632,
+        "149": 0.4632,
+        "220": 0.4632,
+        "232": 0.4632
+      }
+    },
+    {
+      "content": "Never let the fear of striking out keep you from playing the game.",
+      "author": "Babe Ruth",
+      "category": "stress",
+      "confidence": 1.0,
+      "source": "hand-labeled",
+      "vector": {
+        "82": 0.4545,
+        "98": 0.4545,
+        "133": 0.417,
+        "182": 0.4545,
+        "234": 0.4545
+      }
+    },
+    {
+      "content": "Not everything that is faced can be changed, but nothing can be changed until it is faced.",
+      "author": "James Baldwin",
+      "category": "stress",
+      "confidence": 1.0,
+      "source": "hand-labeled",
+      "vector": {
+        "33": 0.7071,
+        "74": 0.7071
+      }
+    },
+    {
+      "content": "Out of difficulties grow miracles.",
+      "author": "Jean de La Bruyere",
+      "category": "stress",
+      "confidence": 1.0,
+      "source": "hand-labeled",
+      "vector": {
+        "56": 0.5442,
+        "107": 0.5932,
+        "159": 0.5932
+      }
+    },
+    {
+      "content": "When it rains, look for rainbows. When it's dark, look for stars.",
+      "author": "Unknown",
+      "category": "stress",
+      "confidence": 1.0,
+      "source": "hand-labeled",
+      "vector": {
+        "48": 0.3816,
+        "143": 0.6461,
+        "197": 0.3816,
+        "198": 0.3816,
+        "229": 0.3816
+      }
+    },
+    {
+      "content": "You are braver than you believe, stronger than you seem, and smarter than you think.",
+      "author": "A.A. Milne",
+      "category": "stress",
+      "confidence": 1.0,
+      "source": "hand-labeled",
+      "vector": {
+        "17": 0.4123,
+        "27": 0.48,
+        "221": 0.48,
+        "235": 0.48,
+        "247": 0.3726
+      }
+    },
+    {
+      "content": "This too shall pass.",
+      "author": "Persian Proverb",
+      "category": "stress",
+      "confidence": 1.0,
+      "source": "hand-labeled",
+      "vector": {
+        "174": 0.7071,
+        "216": 0.7071
+      }
+    },
+    {
+      "content": "Difficulties in life are intended to make us better, not bitter.",
+      "author": "Dan Reeves",
+      "category": "stress",
+      "confidence": 1.0,
+      "source": "hand-labeled",
+      "vector": {
+        "21": 0.4641,
+        "23": 0.4258,
+        "56": 0.4258,
+        "123": 0.4641,
+        "135": 0.2948,
+        "146": 0.3458
+      }
+    },
+    {
+      "content": "Rock bottom became the solid foundation on which I rebuilt my life.",
+      "author": "J.K. Rowling",
+      "category": "stress",
+      "confidence": 1.0,
+      "source": "hand-labeled",
+      "vector": {
+        "93": 0.4765,
+        "135": 0.3027,
+        "203": 0.4765,
+        "210": 0.4765,
+        "224": 0.4765
+      }
+    },
+    {
+      "content": "What lies behind us and what lies before us are tiny matters compared to what lies within us.",
+      "author": "Ralph Waldo Emerson",
+      "category": "stress",
+      "confidence": 1.0,
+      "source": "hand-labeled",
+      "vector": {
+        "38": 0.3715,
+        "134": 0.7796,
+        "150": 0.3408,
+        "252": 0.3715
+      }
+    },
+    {
+      "content": "The oak fought the wind and was broken, the willow bent when it must and survived.",
+      "author": "Robert Jordan",
+      "category": "stress",
+      "confidence": 1.0,
+      "source": "hand-labeled",
+      "vector": {
+        "19": 0.378,
+        "28": 0.378,
+        "92": 0.378,
+        "168": 0.378,
+        "241": 0.378,
+        "275": 0.378,
+        "276": 0.378
+      }
+    },
+    {
+      "content": "Tough times never last, but tough people do.",
+      "author": "Robert H. Schuller",
+      "category": "stress",
+      "confidence": 1.0,
+      "source": "hand-labeled",
+      "vector": {
+        "178": 0.4073,
+        "251": 0.4351,
+        "254": 0.803
+      }
+    },
+    {
+      "content": "Every storm runs out of rain.",
+      "author": "Maya Angelou",
+      "category": "stress",
+      "confidence": 1.0,
+      "source": "hand-labeled",
+      "vector": {
+        "196": 0.5774,
+        "211": 0.5774,
+        "233": 0.5774
+      }
+    },
+    {
+      "content": "Keep your face always toward the sunshine, and shadows will fall behind you.",
+      "author": "Walt Whitman",
+      "category": "stress",
+      "confidence": 1.0,
+      "source": "hand-labeled",
+      "vector": {
+        "73": 0.4681,
+        "76": 0.5102,
+        "215": 0.5102,
+        "240": 0.5102
+      }
+    },
+    {
+      "content": "The only way to do great work is to love what you do.",
+      "author": "Steve Jobs",
+      "category": "motivation",
+      "confidence": 0.422,
+      "source": "model-classified",
+      "vector": {
+        "104": 0.4849,
+        "145": 0.5286,
+        "273": 0.454,
+        "284": 0.5286
+      }
+    },
+    {
+      "content": "Life is what happens to us while we are making other plans.",
+      "author": "Allen Saunders",
+      "category": "wisdom",
+      "confidence": 0.398,
+      "source": "model-classified",
+      "vector": {
+        "135": 1.0
+      }
+    },
+    {
+      "content": "The future belongs to those who believe in the beauty of their dreams.",
+      "author": "Eleanor Roosevelt",
+      "category": "motivation",
+      "confidence": 0.421,
+      "source": "model-classified",
+      "vector": {
+        "15": 0.4727,
+        "17": 0.406,
+        "18": 0.4727,
+        "61": 0.4727,
+        "97": 0.406
+      }
+    },
+    {
+      "content": "It is during our darkest moments that we must focus to see the light.",
+      "author": "Aristotle",
+      "category": "wisdom",
+      "confidence": 0.504,
+      "source": "model-classified",
+      "vector": {
+        "49": 0.5,
+        "87": 0.5,
+        "136": 0.5,
+        "162": 0.5
+      }
+    },
+    {
+      "content": "Whoever is happy will make others happy too.",
+      "author": "Anne Frank",
+      "category": "wisdom",
+      "confidence": 0.393,
+      "source": "model-classified",
+      "vector": {
+        "111": 0.8526,
+        "146": 0.5226
+      }
+    },
+    {
+      "content": "In three words I can sum up everything I've learned about life: it goes on.",
+      "author": "Robert Frost",
+      "category": "literature",
+      "confidence": 0.285,
+      "source": "model-classified",
+      "vector": {
+        "101": 0.4302,
+        "132": 0.4302,
+        "135": 0.2733,
+        "239": 0.4302,
+        "267": 0.4302,
+        "283": 0.4302
+      }
+    },
+    {
+      "content": "If you tell the truth, you don't have to remember anything.",
+      "author": "Mark Twain",
+      "category": "wisdom",
+      "confidence": 0.475,
+      "source": "model-classified",
+      "vector": {
+        "59": 0.4105,
+        "205": 0.5511,
+        "244": 0.5511,
+        "258": 0.4733
+      }
+    },
+    {
+      "content": "You will face many defeats in life, but never let yourself be defeated.",
+      "author": "Maya Angelou",
+      "category": "stress",
+      "confidence": 0.356,
+      "source": "model-classified",
+      "vector": {
+        "51": 0.4947,
+        "52": 0.4947,
+        "73": 0.4538,
+        "133": 0.4538,
+        "135": 0.3142
+      }
+    },
+    {
+      "content": "The purpose of our lives is to be happy.",
+      "author": "Dalai Lama",
+      "category": "happiness",
+      "confidence": 0.328,
+      "source": "model-classified",
+      "vector": {
+        "111": 0.4526,
+        "139": 0.6305,
+        "192": 0.6305
+      }
+    },
+    {
+      "content": "Get busy living or get busy dying.",
+      "author": "Stephen King",
+      "category": "wisdom",
+      "confidence": 0.303,
+      "source": "model-classified",
+      "vector": {
+        "29": 0.7803,
+        "64": 0.4609,
+        "140": 0.4228
+      }
+    },
+    {
+      "content": "You only live once, but if you do it right, once is enough.",
+      "author": "Mae West",
+      "category": "wisdom",
+      "confidence": 0.459,
+      "source": "model-classified",
+      "vector": {
+        "138": 1.0
+      }
+    },
+    {
+      "content": "Never let the fear of striking out keep you from playing the game.",
+      "author": "Babe Ruth",
+      "category": "stress",
+      "confidence": 0.335,
+      "source": "model-classified",
+      "vector": {
+        "82": 0.4545,
+        "98": 0.4545,
+        "133": 0.417,
+        "182": 0.4545,
+        "234": 0.4545
+      }
+    },
+    {
+      "content": "Money and success don't change people; they merely amplify what is already there.",
+      "author": "Will Smith",
+      "category": "wisdom",
+      "confidence": 0.517,
+      "source": "model-classified",
+      "vector": {
+        "9": 0.4183,
+        "32": 0.3593,
+        "59": 0.3117,
+        "153": 0.3838,
+        "163": 0.4183,
+        "178": 0.3593,
+        "237": 0.3838
+      }
+    },
+    {
+      "content": "Truth can only be found in one place: the code.",
+      "author": "Robert C. Martin",
+      "category": "wisdom",
+      "confidence": 0.384,
+      "source": "model-classified",
+      "vector": {
+        "258": 1.0
+      }
+    },
+    {
+      "content": "Not everything that is faced can be changed, but nothing can be changed until it is faced.",
+      "author": "James Baldwin",
+      "category": "stress",
+      "confidence": 0.288,
+      "source": "model-classified",
+      "vector": {
+        "33": 0.7071,
+        "74": 0.7071
+      }
+    },
+    {
+      "content": "Nothing is impossible, the word itself says 'I'm possible'!",
+      "author": "Audrey Hepburn",
+      "category": "motivation",
+      "confidence": 0.38,
+      "source": "model-classified",
+      "vector": {
+        "122": 1.0
+      }
+    },
+    {
+      "content": "The unexamined life is not worth living.",
+      "author": "Socrates",
+      "category": "wisdom",
+      "confidence": 0.478,
+      "source": "model-classified",
+      "vector": {
+        "135": 0.3615,
+        "140": 0.5222,
+        "262": 0.5692,
+        "287": 0.5222
+      }
+    },
+    {
+      "content": "We know what we are, but know not what we may be.",
+      "author": "William Shakespeare",
+      "category": "wisdom",
+      "confidence": 0.508,
+      "source": "model-classified",
+      "vector": {
+        "127": 1.0
+      }
+    },
+    {
+      "content": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
+      "author": "Winston Churchill",
+      "category": "motivation",
+      "confidence": 0.372,
+      "source": "model-classified",
+      "vector": {
+        "41": 0.3823,
+        "43": 0.3823,
+        "44": 0.3823,
+        "75": 0.3823,
+        "81": 0.3823,
+        "85": 0.3823,
+        "237": 0.3508
+      }
+    },
+    {
+      "content": "Happiness is not something ready made. It comes from your own actions.",
+      "author": "Dalai Lama",
+      "category": "happiness",
+      "confidence": 0.362,
+      "source": "model-classified",
+      "vector": {
+        "5": 0.5334,
+        "36": 0.5334,
+        "110": 0.3828,
+        "200": 0.5334
+      }
+    },
+    {
+      "content": "You must be the change you wish to see in the world.",
+      "author": "Mahatma Gandhi",
+      "category": "wisdom",
+      "confidence": 0.557,
+      "source": "model-classified",
+      "vector": {
+        "32": 0.5737,
+        "280": 0.6128,
+        "285": 0.5434
+      }
+    },
+    {
+      "content": "Do what you can, with what you have, where you are.",
+      "author": "Theodore Roosevelt",
+      "category": "wisdom",
+      "confidence": 0.354,
+      "source": "model-classified",
+      "vector": {}
+    },
+    {
+      "content": "Believe you can and you're halfway there.",
+      "author": "Theodore Roosevelt",
+      "category": "motivation",
+      "confidence": 0.378,
+      "source": "model-classified",
+      "vector": {
+        "17": 0.6516,
+        "108": 0.7586
+      }
+    },
+    {
+      "content": "It does not matter how slowly you go as long as you do not stop.",
+      "author": "Confucius",
+      "category": "stress",
+      "confidence": 0.293,
+      "source": "model-classified",
+      "vector": {
+        "58": 0.3768,
+        "142": 0.4632,
+        "149": 0.4632,
+        "220": 0.4632,
+        "232": 0.4632
+      }
+    },
+    {
+      "content": "The best time to plant a tree was 20 years ago. The second best time is now.",
+      "author": "Chinese Proverb",
+      "category": "wisdom",
+      "confidence": 0.279,
+      "source": "model-classified",
+      "vector": {
+        "20": 0.8408,
+        "289": 0.5413
+      }
+    }
+  ]
+}

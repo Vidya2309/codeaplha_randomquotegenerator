@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Quote Explorer</title>
+<link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <header class="app-header">
+    <h1>Quote Explorer</h1>
+    <p class="tagline">Discover, save and share quotes that fit your moment.</p>
+  </header>
+
+  <nav class="tabs" role="tablist">
+    <button class="tab-btn active" data-tab="discover" role="tab" aria-selected="true">Discover</button>
+    <button class="tab-btn" data-tab="mood" role="tab" aria-selected="false">Match my mood</button>
+    <button class="tab-btn" data-tab="favorites" role="tab" aria-selected="false">
+      Favorites <span id="favCount" class="badge">0</span>
+    </button>
+  </nav>
+
+  <main>
+    <!-- DISCOVER TAB -->
+    <section id="discover" class="tab-panel active">
+      <div class="controls">
+        <label for="categorySelect" class="visually-hidden">Category</label>
+        <select id="categorySelect">
+          <option value="all">All categories</option>
+          <option value="motivation">Motivation</option>
+          <option value="philosophy">Philosophy</option>
+          <option value="literature">Literature</option>
+          <option value="wisdom">Wisdom</option>
+          <option value="happiness">Happiness</option>
+          <option value="life">Life</option>
+        </select>
+        <button id="newQuoteBtn" class="primary-btn">New Quote</button>
+      </div>
+
+      <div id="quoteCard" class="quote-card" aria-live="polite">
+        <div id="skeleton" class="skeleton" hidden>
+          <div class="skeleton-line long"></div>
+          <div class="skeleton-line medium"></div>
+          <div class="skeleton-line short"></div>
+        </div>
+
+        <blockquote id="quoteText" class="quote-text"></blockquote>
+        <p id="quoteAuthor" class="quote-author"></p>
+
+        <div id="offlineNotice" class="offline-notice" hidden>
+          Live quote service is unreachable right now — showing a quote from the offline collection.
+        </div>
+
+        <div class="card-actions">
+          <button id="favBtn" class="icon-btn" title="Save to favorites" aria-pressed="false">♡ Save</button>
+          <button id="copyBtn" class="icon-btn" title="Copy quote">⧉ Copy</button>
+          <button id="twitterBtn" class="icon-btn" title="Share on Twitter">𝕏 Share</button>
+        </div>
+      </div>
+    </section>
+
+    <!-- MOOD TAB -->
+    <section id="mood" class="tab-panel">
+      <p class="section-intro">Tell me how you're feeling or what you're facing, and I'll match a quote to it.</p>
+      <form id="moodForm" class="mood-form">
+        <input
+          type="text"
+          id="moodInput"
+          placeholder="e.g. stressed about exams, need motivation, feeling low..."
+          autocomplete="off"
+        />
+        <button type="submit" class="primary-btn">Find a quote</button>
+      </form>
+
+      <div class="mood-chips">
+        <button type="button" class="chip" data-mood="stressed about work">Stressed</button>
+        <button type="button" class="chip" data-mood="need motivation to start">Unmotivated</button>
+        <button type="button" class="chip" data-mood="feeling low and sad">Feeling low</button>
+        <button type="button" class="chip" data-mood="lost confidence in myself">Low confidence</button>
+        <button type="button" class="chip" data-mood="thinking about life and purpose">Reflective</button>
+      </div>
+
+      <div id="moodResult" class="quote-card mood-result" hidden aria-live="polite">
+        <blockquote id="moodQuoteText" class="quote-text"></blockquote>
+        <p id="moodQuoteAuthor" class="quote-author"></p>
+        <p id="moodExplanation" class="mood-explanation"></p>
+        <div class="card-actions">
+          <button id="moodFavBtn" class="icon-btn" title="Save to favorites" aria-pressed="false">♡ Save</button>
+          <button id="moodCopyBtn" class="icon-btn" title="Copy quote">⧉ Copy</button>
+          <button id="moodTwitterBtn" class="icon-btn" title="Share on Twitter">𝕏 Share</button>
+        </div>
+      </div>
+    </section>
+
+    <!-- FAVORITES TAB -->
+    <section id="favorites" class="tab-panel">
+      <p class="section-intro">Quotes you've saved, stored locally in this browser.</p>
+      <div id="favoritesList" class="favorites-list"></div>
+      <p id="emptyFavorites" class="empty-state" hidden>No favorites yet — save a quote from Discover or Match my mood.</p>
+    </section>
+  </main>
+
+  <footer class="app-footer">
+    <p>Built with HTML, CSS &amp; JavaScript · Live data from the Quotable API with an offline fallback</p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>

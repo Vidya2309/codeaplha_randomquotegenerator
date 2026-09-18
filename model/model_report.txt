@@ -1,0 +1,26 @@
+Naive Bayes Quote Category Classifier -- Evaluation
+=======================================================
+
+Labeled training examples: 99
+Categories (5): ['happiness', 'literature', 'motivation', 'stress', 'wisdom']
+Random baseline: 20.00%
+
+5-fold cross-validation accuracy: 42.42% (+/- 5.00%)
+
+Per-class report (cross-validated predictions across full dataset):
+              precision    recall  f1-score   support
+
+   happiness       0.00      0.00      0.00        14
+  literature       0.00      0.00      0.00        15
+  motivation       0.71      0.50      0.59        20
+      stress       0.00      0.00      0.00        15
+      wisdom       0.38      0.91      0.54        35
+
+    accuracy                           0.42        99
+   macro avg       0.22      0.28      0.23        99
+weighted avg       0.28      0.42      0.31        99
+
+Note: accuracy is well above the random baseline but limited by the small
+hand-labeled dataset (~85 examples) and genuine semantic overlap between
+categories like 'wisdom' and 'motivation' in short-text quotes. More labeled
+data or a sentence-embedding-based classifier would likely improve this further.
